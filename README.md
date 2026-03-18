@@ -123,4 +123,4 @@ GitHub → GitHub Actions → Docker Hub → Watchtower (auto-pull) → VPS
 
 I'm actively looking for **Data Engineer opportunities in Kerala**. If you're building data systems and need someone who ships end-to-end — from pipeline to product — let's talk.
 
-[![Email](https://img.shields.io/badge/anoopnew056%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anoopnew056@gmail.com)
+[![Email](https://img.shields.io/badge/anoopmadhu2000%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anoopmadhu2000@gmail.com)
